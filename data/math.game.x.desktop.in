@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=mathgamex
+Exec=mathgamex
+Icon=math.game.x
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

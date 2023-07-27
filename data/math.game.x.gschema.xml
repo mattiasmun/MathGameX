@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="mathgamex">
+	<schema id="math.game.x" path="/math/game/x/">
+	</schema>
+</schemalist>

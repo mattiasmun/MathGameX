@@ -1,0 +1,6 @@
+data/math.game.x.desktop.in
+data/math.game.x.appdata.xml.in
+data/math.game.x.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
